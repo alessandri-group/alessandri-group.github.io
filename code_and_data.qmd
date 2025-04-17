@@ -1,0 +1,155 @@
+---
+title: "Code & Data"
+include-in-header:
+  text: |
+    <style>
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.4);
+    }
+    .modal-content {
+        background-color: #fefefe;
+        margin: 15% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+        max-width: 600px;
+        border-radius: 8px;
+        position: relative;
+    }
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    </style>
+    <script src="js/team-pop-outs.js"></script>
+---
+
+
+List of the main repos and databases we develod and contribute to.\
+Check out also our [Group Github repo](https://github.com/alessandri-group/).
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/icons/M3_small_molecule_logo_for_website.png){.card-img-top alt="Research Area 1"}
+
+::: {.card-body}
+### Martini 3 Small Molecule Database
+A dataset of Martini 3 coarse-grained models
+of small molecules.
+
+[[GitHub repo](https://github.com/ricalessandri/Martini3-Small-Molecules)]
+
+<button class="btn btn-primary" data-modal="modal-M3SM">More</button>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/icons/polyply_logo_for_website.png){.card-img-top alt="Research Area 2"}
+
+::: {.card-body}
+### Polyply
+A software package, written in Python, to facilitate
+the simulation of macromolecules and other complex systems.
+
+[[GitHub repo](https://github.com/marrink-lab/polyply_1.0)]
+
+<button class="btn btn-primary" data-modal="modal-polyply">More</button>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/icons/pysages_logo_for_website.png){.card-img-top alt="Research Area 2"}
+
+::: {.card-body}
+### PySAGES
+A software package, written in Python, that implements
+advanced sampling methods and that runs on GPUs.
+
+[[GitHub repo](https://github.com/SSAGESLabs/PySAGES)]
+
+<button class="btn btn-primary" data-modal="modal-pysages">More</button>
+:::
+:::
+
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/icons/bartender_logo_for_website.png){.card-img-top alt="Research Area 2"}
+
+::: {.card-body}
+### Bartender
+A software package, written in Go, for automated
+and QM-based parametrization of Martini 3 bonded terms.
+
+[[GitHub repo](https://github.com/Martini-Force-Field-Initiative/Bartender)]
+
+<button class="btn btn-primary" data-modal="modal-bartender">More</button>
+:::
+:::
+
+
+:::
+
+
+<!-- Modals -->
+::: {#modal-M3SM .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Martini 3 Small Molecule Database</h3>
+<h4>Dataset of coarse-grained models</h4>
+
+Key publication(s):<br>
+**Alessandri**, Barnoud, *et al.*, *Adv. Theory Simul.* **2022** [[link](https://doi.org/10.1002/adts.202100391)]
+:::
+:::
+
+::: {#modal-polyply .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Polyply</h3>
+<h4>High-throughput simulation software</h4>
+
+Key publication(s):<br>
+Grünewald, **Alessandri**, *et al.*, *Nat. Commun.* **2022**
+[[link](https://doi.org/10.1038/s41467-021-27627-4)] 
+[[GitHub repo](https://github.com/marrink-lab/polyply_1.0)]
+:::
+:::
+
+::: {#modal-pysages .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>PySAGES</h3>
+<h4>Enhanced sampling on GPUs</h4>
+
+Key publication(s):<br>
+Zubieta Rico, *et al.*, *npj. Comput. Mater.* **2024**
+[[link](https://doi.org/10.1038/s41524-023-01189-z)] 
+[[GitHub repo](https://github.com/SSAGESLabs/PySAGES)]
+:::
+:::
+
+::: {#modal-bartender .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Bartender</h3>
+<h4>QM-based Martini bonded parametrization</h4>
+
+Key publication(s):<br>
+Pereira, **Alessandri**, *et al.*, *JCTC* **2024**
+[[link](https://doi.org/10.1021/acs.jctc.4c00275)] 
+[[GitHub repo](https://github.com/Martini-Force-Field-Initiative/Bartender)]
+:::
+:::

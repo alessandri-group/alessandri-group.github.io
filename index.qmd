@@ -1,0 +1,32 @@
+---
+title: ""
+toc: false
+---
+
+::: {.hero-section}
+![](images/home/interface.png){.hero-image}
+<div class="hero-content">
+<h1>Alessandri Group</h1>
+<h2>Computational Soft Materials Design</h2>
+</div>
+:::
+
+We design and engineer soft materials via multi-scale computational approaches. Find us at the 
+[Department of Chemical Engineering](https://cit.kuleuven.be/english) at 
+[KU Leuven](https://www.kuleuven.be/english).
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+[Research](research.qmd){.btn .btn-primary .homepage-button}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+[Team](team.qmd){.btn .btn-primary .homepage-button}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+[Code & Data](code_and_data.qmd){.btn .btn-primary .homepage-button}
+:::
+
+:::

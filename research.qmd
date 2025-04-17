@@ -1,0 +1,178 @@
+---
+title: "Research"
+include-in-header:
+  text: |
+    <style>
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.4);
+    }
+    .modal-content {
+        background-color: #fefefe;
+        margin: 15% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+        max-width: 600px;
+        border-radius: 8px;
+        position: relative;
+    }
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    </style>
+    <script src="js/team-pop-outs.js"></script>
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/research/interface.png){.card-img-top alt="Research Area 1"}
+
+::: {.card-body}
+### Transport Phenomena in Soft Materials
+We study mechanisms governing ionic, electronic, 
+and molecular transport in polymer systems. 
+In collaboration with experimentalists, we leverage this knowledge 
+to design materials with targeted properties.
+
+<button class="btn btn-primary" data-modal="modal-transport">More</button>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/research/naph_M3.png){.card-img-top alt="Research Area 2"}
+
+::: {.card-body}
+### Advancing Coarse-Grained Modeling
+Our group drives innovations in coarse-grained modeling 
+through two approaches: developing chemically-transferable
+models for diverse systems and incorporating electronic
+processes to bridge structure with functionality.
+
+<button class="btn btn-primary" data-modal="modal-coarsegraining">More</button>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/research/polymer.png){.card-img-top alt="Research Area 3"}
+
+::: {.card-body}
+### Polymers for Health and Sustainability
+We focus on polymers with advanced 
+functionalities - mixed conduction, stretchability, reactivity - to address challenges in biosensing,
+separation technologies, and circular materials.
+
+
+<button class="btn btn-primary" data-modal="modal-applications">More</button>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3 .card .research .h-100}
+![](images/research/polymer_design_space.png){.card-img-top alt="Research Area 4"}
+
+::: {.card-body}
+<!-- ### Computer-Aided Polymer Design -->
+### Accelerating Polymer Design
+We develop strategies for polymer design through
+high-throughput molecular simulations
+and data-driven approaches.
+We build datasets to enable rational design 
+of polymer materials for specific applications.
+
+<button class="btn btn-primary" data-modal="modal-computer">More</button>
+:::
+:::
+
+:::
+
+
+<!-- Modals -->
+::: {#modal-transport .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Transport Phenomena in Soft Materials</h3>
+<h4>Research Focus</h4>
+
+<p>We are interested in soft materials, 
+in particular polymers, 
+that transport ions, electrons, and/or small molecules. 
+Such polymers have applications in energy storage, 
+molecular separation, and biomedical devices.</p>
+
+Key publication(s):<br>
+**Alessandri**, *et al.*, *JACS Au* **2024**
+[[link](https://doi.org/10.1021/jacsau.4c00276)]
+:::
+:::
+
+::: {#modal-coarsegraining .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Advancing Coarse-Grained Modeling</h3>
+<h4>Chemically-Specific and Transferable Coarse-Graining</h4>
+
+We are actively involved in the
+[Martini Force Field Initiative](https://github.com/Martini-Force-Field-Initiative), 
+which sustains the development of Martini, a 
+general-purpose force field for coarse-grained molecular dynamics.
+ 
+Key publication(s):<br>
+**Alessandri**, Souza, *et al.*, *JCTC*
+**2019** [[link](https://doi.org/10.1021/acs.jctc.9b00473)]<br>
+Souza, **Alessandri**, *et al.*, *Nat. Methods* **2021**
+[[link](https://doi.org/10.1038/s41592-021-01098-3)]<br>
+**Alessandri**, Barnoud, *et al.*, *Adv. Theory Simul.* **2022** [[link](https://doi.org/10.1002/adts.202100391)]
+
+<h4>Electronic Coarse-Graining</h4>
+
+We develop coarse-grained models that retain electronic
+structure information. Such models are useful to tackle
+a wide range of modern soft material challenges.
+
+Key publication(s):<br>
+**Alessandri**, de Pablo, *Macromolecules* **2023**
+[[link](https://doi.org/10.1021/acs.macromol.3c00141)]
+:::
+:::
+
+::: {#modal-applications .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Polymers for Health and Sustainability</h3>
+<h4></h4>
+
+
+
+Key publication(s):<br>
+Liu, Zhang, **Alessandri**, *et al.*, *Nat. Mater.* **2023**
+[[link](https://doi.org/10.1038/s41563-023-01529-w)]
+:::
+:::
+
+::: {#modal-computer .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Accelerated Polymer Design</h3>
+<!-- <h3>Computer-Aided Polymer Design</h3> -->
+<h4>High-throughput simulation software</h4>
+
+We develop software to enable high-throughput simulations
+of macromolecules.
+
+Key publication(s):<br>
+Grünewald, **Alessandri**, *et al.*, *Nat. Commun.* **2022**
+[[link](https://doi.org/10.1038/s41467-021-27627-4)] 
+[[GitHub repo](https://github.com/marrink-lab/polyply_1.0)]
+:::
+:::

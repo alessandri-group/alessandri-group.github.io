@@ -1,0 +1,182 @@
+---
+title: "Team"
+toc: false
+include-in-header:
+  text: |
+    <style>
+    .modal {
+        display: none;
+        position: fixed;
+        z-index: 1000;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0,0,0,0.4);
+    }
+    .modal-content {
+        background-color: #fefefe;
+        margin: 15% auto;
+        padding: 20px;
+        border: 1px solid #888;
+        width: 80%;
+        max-width: 600px;
+        border-radius: 8px;
+        position: relative;
+    }
+    .close {
+        color: #aaa;
+        float: right;
+        font-size: 28px;
+        font-weight: bold;
+        cursor: pointer;
+    }
+    </style>
+    <script src="js/team-pop-outs.js"></script>
+---
+
+::: {.grid}
+
+<!--- PI --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/alessandri.jpg){.card-img-top .team-photo alt="PI"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Riccardo Alessandri
+:::
+<p class="role">Principal Investigator</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-alessandri">more</button>
+:::
+:::
+
+<!--- Team member 2: Maria --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/marialeyflores.jpeg){.card-img-top .team-photo alt="Team Member 2"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### María Ley-Flores
+:::
+<p class="role">(Visiting) PhD student</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-leyflores">more</button>
+:::
+:::
+
+<!--- Team member 3: Besa --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/besamulajkrasniqi.jpg){.card-img-top .team-photo alt="Team Member 3"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Besa Mulaj Krasniqi
+:::
+<p class="role">Master student</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-mulajkrasniqi">more</button>
+:::
+:::
+
+<!--- Team member 3: Gonzalo --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/gonzaloespinoza.png){.card-img-top .team-photo alt="Team Member 3"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### L. Gonzalo Espinoza A.
+:::
+<p class="role">(Visiting) PhD student</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-espinozaa">more</button>
+:::
+:::
+
+:::
+
+
+
+
+<!-- Modals -->
+::: {#modal-alessandri .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Riccardo Alessandri</h3>
+<h4>Principal Investigator</h4>
+
+<p>Riccardo was born in Perugia, Italy. 
+After his BSc at the University of Perugia, 
+he earned his MSc in Theoretical Chemistry and 
+Computational Modeling at the University of Groningen,
+Netherlands. 
+He received his PhD from the University of Groningen in 2019, 
+then moved to the U.S. for a postdoctoral
+position at the University of Chicago.
+In January 2025, he started his own research group as 
+an assistant professor at KU Leuven. Riccardo was awarded 
+an NWO Rubicon Fellowship, an MSCA Postdoctoral Fellowship,
+and the Maria Lastra Excellence in Mentoring Award.</p>
+
+<p>
+  <a id="email" href="#">Email</a> | <a href="path/to/CV_RA_website.pdf">CV</a>
+</p>
+<script>
+  const user = 'riccardo.alessandri';
+  const domain = 'kuleuven.be';
+  document.getElementById('email').href = `mailto:${user}@${domain}`;
+</script>
+:::
+:::
+
+::: {#modal-leyflores .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>María Ley-Flores</h3>
+<h4>(Visiting) PhD student</h4>
+
+<p>María completed a B.Sc. in Materials Engineering at Universidad 
+de Sonora. After becoming a Fulbright fellow, she joined the 
+Molecular Engineering PhD program at the University of Chicago,
+specializing in Materials for Health and Sustainability. She joined
+the Alessandri Group as a visiting PhD scholar in January 2025.
+María's work focuses on the modeling of polymeric materials
+for applications in circular plastics and all-organic batteries.<br><br>
+Representative publication:<br>
+<b>Ley-Flores</b>, Chabbi, <b>Alessandri</b>, <i>et al.</i>, 
+<i>arXiv</i> <b>2024</b> [[link](https://doi.org/10.48550/arXiv.2404.09341)]</p>
+:::
+:::
+
+::: {#modal-mulajkrasniqi .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Besa Mulaj Krasniqi</h3>
+<h4>Master student</h4>
+
+<p>Besa is a TCCM M.Sc. student at Sorbonne University with
+a background in chemical engineering and physical chemistry. 
+She is currently conducting her M.Sc. research intership in the Group
+on multiscale modeling of organic mixed ionic-electronic conductors.
+She has experience in quantum chemistry calculations, molecular
+dynamics simulations, and machine learning and previously worked on
+Conceptual DFT during an internship at the Theoretical Chemistry
+Laboratory (LCT) at Sorbonne University.</p>
+:::
+:::
+
+::: {#modal-espinozaa .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>L. Gonzalo Espinoza A.</h3>
+<h4>(Visiting) PhD student</h4>
+
+<p>Originally from Talca, Chile, Gonzalo completed his
+undergraduate degree in Bioinformatics Engineering with a
+specialization in molecular dynamics. As a PhD candidate, 
+he conducts coarse-grained molecular simulations to investigate interactions between lipid membranes, nanoparticles, and
+membrane proteins. Gonzalo is developing specialized algorithms 
+to efficiently analyze and visualize complex molecular 
+simulation data.</p>
+:::
+:::

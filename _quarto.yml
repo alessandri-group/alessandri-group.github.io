@@ -1,0 +1,43 @@
+project:
+  type: website
+
+website:
+  title: "Alessandri Group"
+  google-analytics: "G-5BX37TYF12"
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: https://scholar.google.com/citations?user=yZV0hjQAAAAJ
+        text: Publications
+      - href: team.qmd
+        text: Team
+      - href: join.qmd
+        text: Join
+      - href: code_and_data.qmd
+        text: Code & Data
+      - href: contact.qmd
+        text: Contact
+    tools:
+      - icon: twitter
+        href: https://bsky.app/profile/ricalessandri.bsky.social
+      - icon: github
+        href: https://github.com/alessandri-group
+
+            
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    include-in-header: 
+      - text: |
+          <script src="js/title-quote.js"></script>
+    include-after-body:
+      - text: |
+          <footer class="footer">
+            <p style="text-align: center;">&copy; Alessandri Group</p>
+          </footer>
+    page-layout: custom

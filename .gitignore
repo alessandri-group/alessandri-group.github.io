@@ -1,0 +1,7 @@
+.DS_Store
+DALL*
+FROM*
+js/title-quote-b*.js 
+/.quarto/
+_site/
+*_DEV.qmd
