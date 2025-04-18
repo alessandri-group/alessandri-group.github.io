@@ -35,7 +35,7 @@ include-in-header:
 ---
 
 
-List of the main repos and databases we develod and contribute to.\
+List of the main repos and databases we develop and contribute to.\
 Check out also our [Group Github repo](https://github.com/alessandri-group/).
 
 ::: {.grid}
