@@ -51,17 +51,17 @@ include-in-header:
 :::
 :::
 
-<!--- Team member 2: Maria --->
+<!--- Team member 2: Alireza --->
 ::: {.g-col-12 .g-col-md-3 .card .h-100}
-![](images/team/marialeyflores.jpeg){.card-img-top .team-photo alt="Team Member 2"}
+![](images/team/alirezamirzaalipour.jpg){.card-img-top .team-photo alt="Team Member 2"}
 
 ::: {.card-body .text-center}
 ::: {.team-name}
-### María Ley-Flores
+### Alireza Mirzaalipour
 :::
-<p class="role">(Visiting) PhD student</p>
+<p class="role">PhD student</p>
 
-<button class="team-more btn btn-sm btn-primary" data-modal="modal-leyflores">more</button>
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-alirezamirzaalipour">more</button>
 :::
 :::
 
@@ -73,13 +73,71 @@ include-in-header:
 ::: {.team-name}
 ### Besa Mulaj Krasniqi
 :::
-<p class="role">Master student</p>
+<p class="role">PhD student</p>
 
-<button class="team-more btn btn-sm btn-primary" data-modal="modal-mulajkrasniqi">more</button>
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-besamulajkrasniqi">more</button>
 :::
 :::
 
-<!--- Team member 3: Gonzalo --->
+:::
+
+
+## Former mentees
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/yihengwu.jpg){.card-img-top .team-photo alt="Former Member 1"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Yiheng Wu
+:::
+<p class="role">New York University</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-yihengwu">more</button>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/chengzhang.jpg){.card-img-top .team-photo alt="Former Member 2"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Cheng Zhang
+:::
+<p class="role">Apple</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-chengzhang">more</button>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/marialeyflores.jpeg){.card-img-top .team-photo alt="Team Member 2"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### María Ley-Flores
+:::
+<p class="role">University of Chicago</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-marialeyflores">more</button>
+:::
+:::
+
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/khatrinh.jpeg){.card-img-top .team-photo alt="Former Member 3"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Kha Trinh
+:::
+<p class="role">New York University</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-khatrinh">more</button>
+:::
+:::
+
 ::: {.g-col-12 .g-col-md-3 .card .h-100}
 ![](images/team/gonzaloespinoza.png){.card-img-top .team-photo alt="Team Member 3"}
 
@@ -87,14 +145,13 @@ include-in-header:
 ::: {.team-name}
 ### L. Gonzalo Espinoza A.
 :::
-<p class="role">(Visiting) PhD student</p>
+<p class="role">University of Talca</p>
 
-<button class="team-more btn btn-sm btn-primary" data-modal="modal-espinozaa">more</button>
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-gonzaloespinoza">more</button>
 :::
 :::
 
 :::
-
 
 
 
@@ -129,11 +186,51 @@ and the Maria Lastra Excellence in Mentoring Award.</p>
 :::
 :::
 
-::: {#modal-leyflores .modal}
+::: {#modal-alirezamirzaalipour .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Alireza Mirzaalipour</h3>
+<h4>PhD student</h4>
+
+<p>Originally from Iran, he completed both his BSc and
+MSc in Polymer Engineering at Amirkabir University of
+Technology. During his studies, his research involved
+using multiscale simulations, both atomistic and
+coarse-grained, along with simulation automation and
+force field parameterization to investigate polymeric
+amphiphiles and coatings. 
+Currently, his PhD (started in the fall of 2025)
+focuses on developing a comprehensive
+computational framework for the design of innovative
+polymers targeting health and sustainable 
+applications.</p>
+:::
+:::
+
+::: {#modal-besamulajkrasniqi .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Besa Mulaj Krasniqi</h3>
+<h4>PhD student</h4>
+
+<p>Besa earned a MSc degree in Theoretical Chemistry 
+and Computational Modeling (TCCM) in 2025 at Sorbonne 
+University with a research internship at KU Leuven. 
+Her background is in chemical engineering and physical
+chemistry. 
+In her PhD (started in the fall of 2025), 
+she combines quantum chemistry calculations, 
+molecular dynamics simulations, 
+and machine learning to model 
+organic mixed ionic-electronic conductors.</p>
+:::
+:::
+
+::: {#modal-marialeyflores .modal}
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>María Ley-Flores</h3>
-<h4>(Visiting) PhD student</h4>
+<h4>Currently at University of Chicago<br> <b>PhD student @ UChicago</b></h4>
 
 <p>María completed a B.Sc. in Materials Engineering at Universidad 
 de Sonora. After becoming a Fulbright fellow, she joined the 
@@ -148,28 +245,11 @@ Representative publication:<br>
 :::
 :::
 
-::: {#modal-mulajkrasniqi .modal}
-::: {.modal-content}
-<span class="close">&times;</span>
-<h3>Besa Mulaj Krasniqi</h3>
-<h4>Master student</h4>
-
-<p>Besa is a TCCM M.Sc. student at Sorbonne University with
-a background in chemical engineering and physical chemistry. 
-She is currently conducting her M.Sc. research intership in the Group
-on multiscale modeling of organic mixed ionic-electronic conductors.
-She has experience in quantum chemistry calculations, molecular
-dynamics simulations, and machine learning and previously worked on
-Conceptual DFT during an internship at the Theoretical Chemistry
-Laboratory (LCT) at Sorbonne University.</p>
-:::
-:::
-
-::: {#modal-espinozaa .modal}
+::: {#modal-gonzaloespinoza .modal}
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>L. Gonzalo Espinoza A.</h3>
-<h4>(Visiting) PhD student</h4>
+<h4>Currently at University of Talca<br> <b>(Visiting) PhD student @ KU Leuven</b></h4>
 
 <p>Originally from Talca, Chile, Gonzalo completed his
 undergraduate degree in Bioinformatics Engineering with a
@@ -178,5 +258,56 @@ he conducts coarse-grained molecular simulations to investigate interactions bet
 membrane proteins. Gonzalo is developing specialized algorithms 
 to efficiently analyze and visualize complex molecular 
 simulation data.</p>
+:::
+:::
+
+::: {#modal-yihengwu .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Yiheng Wu</h3>
+<h4>Currently at New York University<br> <b>PhD student @ UChicago</b></h4>
+
+<p>Yiheng comes from Wuhan, Hubei, China. 
+He received his bachelor degree in Polymer Materials 
+and Engineering in Tsinghua University, Beijing.
+Currently he is pursuing his Ph.D. at the 
+Pritzker School of Molecular Engineering, University of Chicago.
+Under the guidance of Juan de Pablo and Tobin Sosnick,
+he is developing the coarse-grained RNA model CRANBERRY.
+He also works on polymer physics of polyampholyte necklaces. In his leisure time,
+Yiheng enjoys going to concerts, playing trumpet and singing.</p>
+
+Representative publication(s):<br>
+Zubieta, **Alessandri**, **Wu**, *et al.*, *npj Comput. Mater.* **2024**
+[[link](https://doi.org/10.1038/s41524-023-01189-z)]<br>
+:::
+:::
+
+::: {#modal-chengzhang .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Cheng Zhang</h3>
+<h4>Currently at Apple<br> <b>PhD student @ UChicago</b></h4>
+
+Representative publication(s):<br>
+Liu, **Zhang**, **Alessandri**, *et al.*, *Nat. Mater.* **2023**
+[[link](https://doi.org/10.1038/s41563-023-01529-w)]<br>
+:::
+:::
+
+::: {#modal-khatrinh .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Kha Trinh</h3>
+<h4>Currently at New York University<br> <b>PhD student @ UChicago</b></h4>
+
+<p>Kha Trinh completed a B.A. in Chemistry 
+at St. Olaf College in Minnesota. 
+In 2023, he joined the Ph.D. program in 
+Molecular Engineering at the University of Chicago, 
+where his research focuses on solid-state crosslinked
+polymeric materials for energy storage applications. 
+In 2025, Kha began a research stay at NYU 
+as part of his doctoral work.</p>
 :::
 :::
