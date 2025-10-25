@@ -16,6 +16,7 @@ body {
 
 .navbar-brand {
     color: #ffffff !important;  /* Changes brand/title color in navbar */
+    flex-direction: column !important;
 }
 
 /* Make sure it shows also within phone screens */
