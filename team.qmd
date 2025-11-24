@@ -277,7 +277,7 @@ he is developing the coarse-grained RNA model CRANBERRY.
 He also works on polymer physics of polyampholyte necklaces. In his leisure time,
 Yiheng enjoys going to concerts, playing trumpet and singing.</p>
 
-Representative publication(s):<br>
+Representative publication:<br>
 Zubieta, **Alessandri**, **Wu**, *et al.*, *npj Comput. Mater.* **2024**
 [[link](https://doi.org/10.1038/s41524-023-01189-z)]<br>
 :::
@@ -289,7 +289,7 @@ Zubieta, **Alessandri**, **Wu**, *et al.*, *npj Comput. Mater.* **2024**
 <h3>Cheng Zhang</h3>
 <h4>Currently at Apple<br> <b>PhD student @ UChicago</b></h4>
 
-Representative publication(s):<br>
+Representative publication:<br>
 Liu, **Zhang**, **Alessandri**, *et al.*, *Nat. Mater.* **2023**
 [[link](https://doi.org/10.1038/s41563-023-01529-w)]<br>
 :::
