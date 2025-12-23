@@ -176,7 +176,7 @@ an NWO Rubicon Fellowship, an MSCA Postdoctoral Fellowship,
 and the Maria Lastra Excellence in Mentoring Award.</p>
 
 <p>
-  <a id="email" href="#">Email</a> | <a href="https://www.kuleuven.be/wieiswie/en/person/00171028">KUL page</a> | <a href="https://orcid.org/0000-0003-1948-5311">ORCiD</a> | <a href="path/to/CV_RA_website.pdf">CV</a>
+  <a id="email" href="#">Email</a> | <a href="https://www.kuleuven.be/wieiswie/en/person/00171028">KUL page</a> | <a href="https://orcid.org/0000-0003-1948-5311">ORCiD</a> | <a href="files/cv/CV_RA_20251222.pdf">CV</a>
 </p>
 <script>
   const user = 'riccardo.alessandri';
