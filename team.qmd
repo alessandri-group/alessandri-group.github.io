@@ -119,7 +119,7 @@ include-in-header:
 ::: {.team-name}
 ### María Ley-Flores
 :::
-<p class="role">University of Chicago</p>
+<p class="role">EmTDLab</p>
 
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-marialeyflores">more</button>
 :::
@@ -230,7 +230,7 @@ organic mixed ionic-electronic conductors.</p>
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>María Ley-Flores</h3>
-<h4>Currently at University of Chicago<br> <b>PhD student @ UChicago</b></h4>
+<h4>Currently at EmTDLab<br> <b>PhD student @ UChicago</b></h4>
 
 <p>María completed a B.Sc. in Materials Engineering at Universidad 
 de Sonora. After becoming a Fulbright fellow, she joined the 
