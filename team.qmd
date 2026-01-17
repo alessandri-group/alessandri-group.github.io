@@ -190,7 +190,7 @@ an NWO Rubicon Fellowship, an MSCA Postdoctoral Fellowship,
 and the Maria Lastra Excellence in Mentoring Award.</p>
 
 <p>
-  <a id="email" href="#">Email</a> | <a href="https://www.kuleuven.be/wieiswie/en/person/00171028">KUL page</a> | <a href="https://orcid.org/0000-0003-1948-5311">ORCiD</a> | <a href="files/cv/CV_RA_20251222.pdf">CV</a>
+  <a id="email" href="#">Email</a> | <a href="https://www.kuleuven.be/wieiswie/en/person/00171028">KUL page</a> | <a href="https://orcid.org/0000-0003-1948-5311">ORCiD</a> | <a href="files/cv/CV_RA_20260118.pdf">CV</a>
 </p>
 <script>
   const user = 'riccardo.alessandri';
@@ -314,8 +314,8 @@ He also works on polymer physics of polyampholyte necklaces. In his leisure time
 Yiheng enjoys going to concerts, playing trumpet and singing.</p>
 
 Representative publication:<br>
-Zubieta, **Alessandri**, **Wu**, *et al.*, *npj Comput. Mater.* **2024**
-[[link](https://doi.org/10.1038/s41524-023-01189-z)]<br>
+**Wu**, **Alessandri**, *et al.*, *bioRxiv* **2026**
+[[link](https://doi.org/10.64898/2026.01.12.699131)]<br>
 :::
 :::
 
