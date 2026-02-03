@@ -51,7 +51,7 @@ include-in-header:
 :::
 :::
 
-<!--- Team member 2: Alireza --->
+<!--- Team member: Alireza --->
 ::: {.g-col-12 .g-col-md-3 .card .h-100}
 ![](images/team/alirezamirzaalipour.jpg){.card-img-top .team-photo alt="Team Member 2"}
 
@@ -65,7 +65,7 @@ include-in-header:
 :::
 :::
 
-<!--- Team member 3: Besa --->
+<!--- Team member: Besa --->
 ::: {.g-col-12 .g-col-md-3 .card .h-100}
 ![](images/team/besamulajkrasniqi.jpg){.card-img-top .team-photo alt="Team Member 3"}
 
@@ -79,7 +79,7 @@ include-in-header:
 :::
 :::
 
-<!--- Team member 4: Behrad --->
+<!--- Team member: Behrad --->
 ::: {.g-col-12 .g-col-md-3 .card .h-100}
 ![](images/team/behradjandaghianbidgoli.jpg){.card-img-top .team-photo alt="Team Member 4"}
 
