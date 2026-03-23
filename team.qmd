@@ -93,6 +93,20 @@ include-in-header:
 :::
 :::
 
+<!--- Team member: Tomas --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/tomassunaert.jpg){.card-img-top .team-photo alt="Team Member 4"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Tomas Sunaert
+:::
+<p class="role">PhD student <br>(co-advised with Prof. Ianiro & Prof. Escudero)</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-tomassunaert">more</button>
+:::
+:::
+
 :::
 
 
@@ -100,68 +114,63 @@ include-in-header:
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-3 .card .h-100}
-![](images/team/yihengwu.jpg){.card-img-top .team-photo alt="Former Member 1"}
+::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
+::: {.former-card-layout}
+![](images/team/yihengwu.jpg){.team-photo alt="Former Member 1"}
 
-::: {.card-body .text-center}
-::: {.team-name}
-### Yiheng Wu
-:::
+<div class="former-text-content">
+<h3 class="team-name-text">Yiheng Wu</h3>
 <p class="role">New York University</p>
-
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-yihengwu">more</button>
+</div>
 :::
 :::
 
-::: {.g-col-12 .g-col-md-3 .card .h-100}
+::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
+::: {.former-card-layout}
 ![](images/team/chengzhang.jpg){.card-img-top .team-photo alt="Former Member 2"}
 
-::: {.card-body .text-center}
-::: {.team-name}
-### Cheng Zhang
-:::
+<div class="former-text-content">
+<h3 class="team-name-text">Cheng Zhang</h3>
 <p class="role">Apple</p>
-
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-chengzhang">more</button>
+</div>
 :::
 :::
 
-::: {.g-col-12 .g-col-md-3 .card .h-100}
-![](images/team/marialeyflores.jpeg){.card-img-top .team-photo alt="Team Member 2"}
+::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
+::: {.former-card-layout}
+![](images/team/marialeyflores.jpeg){.card-img-top .team-photo alt="Team Member 3"}
 
-::: {.card-body .text-center}
-::: {.team-name}
-### María Ley-Flores
-:::
+<div class="former-text-content">
+<h3 class="team-name-text">María Ley-Flores</h3>
 <p class="role">EmTDLab</p>
-
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-marialeyflores">more</button>
+</div>
 :::
 :::
 
-::: {.g-col-12 .g-col-md-3 .card .h-100}
-![](images/team/khatrinh.jpeg){.card-img-top .team-photo alt="Former Member 3"}
+::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
+::: {.former-card-layout}
+![](images/team/khatrinh.jpeg){.card-img-top .team-photo alt="Former Member 4"}
 
-::: {.card-body .text-center}
-::: {.team-name}
-### Kha Trinh
-:::
+<div class="former-text-content">
+<h3 class="team-name-text">Kha Trinh</h3>
 <p class="role">New York University</p>
-
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-khatrinh">more</button>
+</div>
 :::
 :::
 
-::: {.g-col-12 .g-col-md-3 .card .h-100}
-![](images/team/gonzaloespinoza.png){.card-img-top .team-photo alt="Team Member 3"}
+::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
+::: {.former-card-layout}
+![](images/team/gonzaloespinoza.png){.card-img-top .team-photo alt="Team Member 5"}
 
-::: {.card-body .text-center}
-::: {.team-name}
-### L. Gonzalo Espinoza A.
-:::
+<div class="former-text-content">
+<h3 class="team-name-text">L. Gonzalo Espinoza A.</h3>
 <p class="role">University of Talca</p>
-
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-gonzaloespinoza">more</button>
+</div>
 :::
 :::
 
@@ -258,6 +267,20 @@ organic mixed ionic-electronic conductors.</p>
 
 <p>
   <a href="https://www.kuleuven.be/wieiswie/en/person/00169071">KUL page</a> | <a href="https://orcid.org/0000-0002-7257-3452">ORCiD</a> | <a href="https://scholar.google.com/citations?user=tXBxIJYAAAAJ&hl=en">GScholar</a>
+</p>
+:::
+:::
+
+::: {#modal-tomassunaert .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Tomas Sunaert</h3>
+<h4>PhD student (co-advised with Prof. Ianiro & Prof. Escudero)</h4>
+
+<p>Tomas earned an MSc degree in Theoretical Chemistry and Computational Modeling (TCCM) from KU Leuven in 2025. During his studies, he completed a research internship at Kyoto University, where he worked on RISM theory. Since March 2026, he became a PhD candidate in the group of Prof. A. Ianiro, co-supervised by Prof. R. Alessandri and Prof. D. Escudero, where he studies block copolymer membranes.</p>
+
+<p>
+  <a href="https://orcid.org/0009-0000-8079-8988">ORCiD</a>
 </p>
 :::
 :::
