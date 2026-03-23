@@ -431,3 +431,64 @@ html, body {
         font-size: 1.2rem;
     }
 }
+
+/* Former members - compact horizontal layout */
+.card.former-member {
+    margin-bottom: 0.5rem;
+}
+
+.former-card-layout {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: flex-start !important;
+    gap: 1rem !important;
+    padding: 0.25rem 0.5rem !important;
+}
+
+.former-card-layout .team-photo {
+    height: 100px !important;
+    width: 100px !important;
+    min-width: 100px !important;
+    object-fit: cover !important;
+    border-radius: 50% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.former-text-content {
+    display: flex !important;
+    flex-direction: column !important;
+    gap: 0.15rem !important;
+}
+
+.former-card-layout .team-name-text {
+    font-size: 0.95rem !important;
+    color: #1a365d !important;
+    margin: 0 !important;
+    pointer-events: none !important;
+    text-align: left !important;
+}
+
+.former-card-layout .team-name-text a {
+    text-decoration: none !important;
+    pointer-events: none !important;
+}
+
+.former-card-layout .team-name-text a::after,
+.former-card-layout .team-name-text a::before {
+    display: none !important;
+    content: none !important;
+}
+
+.former-card-layout .role {
+    font-size: 0.8rem !important;
+    margin: 0 !important;
+    text-align: left !important;
+}
+
+.former-card-layout button {
+    padding: 0.3rem 0.6rem !important;
+    font-size: 0.75rem !important;
+    margin: 0.25rem 0 0 0 !important;
+    align-self: flex-start !important;
+}
