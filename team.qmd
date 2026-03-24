@@ -107,6 +107,20 @@ include-in-header:
 :::
 :::
 
+<!--- Team member: Matias --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/matiasrojastapia.jpg){.card-img-top .team-photo alt="Team Member 5"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Matías Rojas-Tapia
+:::
+<p class="role">Visiting PhD student</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-matiasrojastapia">more</button>
+:::
+:::
+
 :::
 
 
@@ -282,6 +296,16 @@ organic mixed ionic-electronic conductors.</p>
 <p>
   <a href="https://orcid.org/0009-0000-8079-8988">ORCiD</a>
 </p>
+:::
+:::
+
+::: {#modal-matiasrojastapia .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Matías Rojas-Tapia</h3>
+<h4>Visiting PhD student</h4>
+
+<p>Originally from Talca, Chile, Matías completed his undergraduate degree in Civil Engineering in Bioinformatics with a specialization in molecular dynamics. As a PhD candidate, he focuses on the computational modeling of hybrid lipid–polymer nanoparticles (hNPs) functionalized with bifunctional peptides for targeting and cellular internalization. His research aims to understand and quantify how these systems modulate nanoparticle–membrane interactions and enhance cellular uptake. Matías employs coarse-grained molecular simulations and multiscale modeling approaches to study the structural behavior and functional performance of these nanodevices.</p>
 :::
 :::
 
