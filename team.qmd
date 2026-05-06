@@ -121,6 +121,20 @@ include-in-header:
 :::
 :::
 
+<!--- Team member: Lara --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/larahashem.jpeg){.card-img-top .team-photo alt="Team Member 6"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Lara Hashem
+:::
+<p class="role">MSc student</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-larahashem">more</button>
+:::
+:::
+
 :::
 
 
@@ -306,6 +320,16 @@ organic mixed ionic-electronic conductors.</p>
 <h4>Visiting PhD student</h4>
 
 <p>Originally from Talca, Chile, Matías completed his undergraduate degree in Civil Engineering in Bioinformatics with a specialization in molecular dynamics. As a PhD candidate, he focuses on the computational modeling of hybrid lipid–polymer nanoparticles (hNPs) functionalized with bifunctional peptides for targeting and cellular internalization. His research aims to understand and quantify how these systems modulate nanoparticle–membrane interactions and enhance cellular uptake. Matías employs coarse-grained molecular simulations and multiscale modeling approaches to study the structural behavior and functional performance of these nanodevices.</p>
+:::
+:::
+
+::: {#modal-larahashem .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Lara Hashem</h3>
+<h4>MSc student</h4>
+
+<p>Lara, originally from Lebanon, currently pursuing a Master’s degree in Theoretical Chemistry and Computational Modelling (TCCM) at KU Leuven (started in the fall of 2025). In the spring of 2025, she earned her Bachelor’s degree in Chemistry from the Lebanese American University (LAU), where she conducted research on the synthesis and characterization of hydrogels for biomedical and environmental applications.</p>
 :::
 :::
 
