@@ -365,6 +365,10 @@ he conducts coarse-grained molecular simulations to investigate interactions bet
 membrane proteins. Gonzalo is developing specialized algorithms 
 to efficiently analyze and visualize complex molecular 
 simulation data.</p>
+
+Representative publication:<br>
+**Espinoza-Arcos**, ..., **Alessandri**\*, Poblete\*, *Nano Lett.* **2026**
+[[link](https://doi.org/10.1021/acs.nanolett.6c00637)]<br>
 :::
 :::
 
