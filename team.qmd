@@ -387,7 +387,7 @@ organic mixed ionic-electronic conductors.</p>
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>María Ley-Flores</h3>
-<h4>Currently at EmTDLab<br> <b>(Visiting) PhD student @ KU Leuven</b><br> <b>PhD student @ UChicago</b></h4>
+<h4>Currently at EmTDLab<br> <b>Visiting PhD student @ KU Leuven</b><br> <b>PhD student @ UChicago</b></h4>
 
 <p>María completed a B.Sc. in Materials Engineering at Universidad 
 de Sonora, Mexico. After becoming a Fulbright fellow, she joined the 
@@ -457,7 +457,7 @@ as part of his doctoral work.</p>
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>L. Gonzalo Espinoza A.</h3>
-<h4>Currently at University of Talca<br> <b>(Visiting) PhD student @ KU Leuven</b></h4>
+<h4>Currently at University of Talca<br> <b>Visiting PhD student @ KU Leuven</b></h4>
 
 <p>Originally from Talca, Chile, Gonzalo completed his
 undergraduate degree in Bioinformatics Engineering with a
@@ -477,7 +477,7 @@ Representative publication:<br>
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>Matías Rojas-Tapia</h3>
-<h4>Currently at University of Talca<br> <b>(Visiting) PhD student @ KU Leuven</b></h4>
+<h4>Currently at University of Talca<br> <b>Visiting PhD student @ KU Leuven</b></h4>
 
 <p>Originally from Talca, Chile, Matías completed his undergraduate degree in Civil Engineering in Bioinformatics with a specialization in molecular dynamics. As a PhD candidate, he focuses on the computational modeling of hybrid lipid–polymer nanoparticles (hNPs) functionalized with bifunctional peptides for targeting and cellular internalization. His research aims to understand and quantify how these systems modulate nanoparticle–membrane interactions and enhance cellular uptake. Matías employs coarse-grained molecular simulations and multiscale modeling approaches to study the structural behavior and functional performance of these nanodevices.</p>
 :::
