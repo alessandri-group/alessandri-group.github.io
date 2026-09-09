@@ -162,7 +162,7 @@ include-in-header:
 
 <div class="former-text-content">
 <h3 class="team-name-text">Yiheng Wu</h3>
-<p class="role">New York University</p>
+<p class="role">Atomic AI</p>
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-yihengwu">more</button>
 </div>
 :::
@@ -406,17 +406,17 @@ Representative publication:<br>
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>Yiheng Wu</h3>
-<h4>Currently at New York University<br> <b>PhD student @ UChicago</b></h4>
+<h4>Currently at Atomic AI<br> <b>PhD student @ UChicago</b></h4>
 
 <p>Yiheng comes from Wuhan, Hubei, China. 
 He received his bachelor degree in Polymer Materials 
 and Engineering in Tsinghua University, Beijing.
-Currently he is pursuing his Ph.D. at the 
+He has obtained his Ph.D. at the 
 Pritzker School of Molecular Engineering, University of Chicago.
 Under the guidance of Juan de Pablo and Tobin Sosnick,
-he is developing the coarse-grained RNA model CRANBERRY.
-He also works on polymer physics of polyampholyte necklaces. In his leisure time,
-Yiheng enjoys going to concerts, playing trumpet and singing.</p>
+he has developed the coarse-grained RNA model CRANBERRY.
+He also works on polymer physics of polyampholyte necklaces. 
+In his leisure time, Yiheng enjoys going to concerts, playing trumpet and singing.</p>
 
 Representative publication:<br>
 **Wu**, **Alessandri**, *et al.*, *bioRxiv* **2026**
