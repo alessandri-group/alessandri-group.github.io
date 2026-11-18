@@ -37,7 +37,7 @@ include-in-header:
 
 ::: {.grid}
 
-<!--- PI --->
+<!--- PI: Riccardo --->
 ::: {.g-col-12 .g-col-md-3 .card .h-100}
 ![](images/team/alessandri.jpg){.card-img-top .team-photo alt="PI"}
 
@@ -107,17 +107,17 @@ include-in-header:
 :::
 :::
 
-<!--- Team member: Gonzalo --->
+<!--- Team member: Yahya --->
 ::: {.g-col-12 .g-col-md-3 .card .h-100}
-![](images/team/gonzaloespinoza.png){.card-img-top .team-photo alt="Team Member 5"}
+![](images/team/yahyafarooq.png){.card-img-top .team-photo alt="Team Member 5"}
 
 ::: {.card-body .text-center}
 ::: {.team-name}
-### L. Gonzalo Espinoza A.
+### Yahya Farooq
 :::
-<p class="role">Visiting Postdoc</p>
+<p class="role">MSc student</p>
 
-<button class="team-more btn btn-sm btn-primary" data-modal="modal-gonzaloespinoza">more</button>
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-yahyafarooq">more</button>
 :::
 :::
 
@@ -176,7 +176,7 @@ include-in-header:
 :::
 :::
 
-<!-- ::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
+::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
 ::: {.former-card-layout}
 ![](images/team/gonzaloespinoza.png){.card-img-top .team-photo alt="Former Member 5"}
 
@@ -186,7 +186,7 @@ include-in-header:
 <button class="team-more btn btn-sm btn-primary" data-modal="modal-gonzaloespinoza">more</button>
 </div>
 :::
-::: -->
+:::
 
 ::: {.g-col-12 .g-col-md-3 .card .former-member .h-100}
 ::: {.former-card-layout}
@@ -364,6 +364,24 @@ Representative publication:<br>
 :::
 :::
 
+::: {#modal-yahyafarooq .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Yahya Farooq</h3>
+<h4>MSc student</h4>
+
+<p>Born in the United Arab Emirates and originally from Afghanistan, 
+Yahya Farooq graduated from Heriot-Watt University with a Bachelor 
+of Engineering (Honours) in Chemical Engineering, 
+achieving First Class Honours. 
+He subsequently gained experience in laundry detergent quality control 
+and consultancy. Since 2026, he has been pursuing a Master of Chemical
+Engineering Technology at KU Leuven, where his current thesis research
+focuses on molecular dynamics simulations to investigate the properties 
+and performance of liquid-like siloxane surfaces.</p>
+:::
+:::
+
 ::: {#modal-marialeyflores .modal}
 ::: {.modal-content}
 <span class="close">&times;</span>
@@ -442,8 +460,8 @@ Mohanty, **Trinh**, **Alessandri**, *et al.*, *Chem. Mater.* **2026**
 ::: {.modal-content}
 <span class="close">&times;</span>
 <h3>L. Gonzalo Espinoza A.</h3>
-<h4>Visiting Postdoc</h4>
-<!-- <h4>Currently at University of Talca<br> <b>Visiting PhD student @ KU Leuven</b></h4> -->
+<!-- <h4>Visiting Postdoc</h4> -->
+<h4>Currently at University of Talca<br> <b>Visiting Postdoc @ KU Leuven</b> <br> <b>Visiting PhD student @ KU Leuven</b></h4>
 
 <p>Originally from Talca, Chile, Gonzalo completed his
 undergraduate degree in Bioinformatics Engineering with a
