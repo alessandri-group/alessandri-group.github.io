@@ -121,6 +121,20 @@ include-in-header:
 :::
 :::
 
+<!--- Team member: Wout --->
+::: {.g-col-12 .g-col-md-3 .card .h-100}
+![](images/team/woutvandenbroeck.jpg){.card-img-top .team-photo alt="Team Member 5"}
+
+::: {.card-body .text-center}
+::: {.team-name}
+### Wout Van den Broeck
+:::
+<p class="role">MSc student (co-advised with Prof. Mignon)</p>
+
+<button class="team-more btn btn-sm btn-primary" data-modal="modal-woutvandenbroeck">more</button>
+:::
+:::
+
 :::
 
 
@@ -379,6 +393,22 @@ and consultancy. Since 2026, he has been pursuing a Master of Chemical
 Engineering Technology at KU Leuven, where his current thesis research
 focuses on molecular dynamics simulations to investigate the properties 
 and performance of liquid-like siloxane surfaces.</p>
+:::
+:::
+
+::: {#modal-woutvandenbroeck .modal}
+::: {.modal-content}
+<span class="close">&times;</span>
+<h3>Wout Van den Broeck</h3>
+<h4>MSc student (co-advised with Prof. Mignon)</h4>
+
+<p>Wout was born in Zelem, in the Belgian province of Limburg.
+He earned his bachelor's degree in Engineering technology at KU Leuven
+and is now in the final year of his Master of Chemical Engineering technology
+at KU Leuven's Group T campus. For his master's thesis, he combines
+lab experiments with molecular dynamics simulations to investigate
+how hydrophobic exclusion influences the 3D printability of
+photo-crosslinkable resins.</p>
 :::
 :::
 
